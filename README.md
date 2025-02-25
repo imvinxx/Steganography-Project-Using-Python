@@ -46,7 +46,6 @@ A Python tool for hiding secret messages inside images using steganography with 
 
 # File Structure
 
-.
 ├── encrypt.py           # Encryption script
 ├── decrypt.py           # Decryption script
 ├── horses.jpg           # Sample carrier image

@@ -54,4 +54,4 @@ A Python tool for hiding secret messages inside images using steganography with 
 
 
 ## License
-MIT License 
+Open Source

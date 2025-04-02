@@ -4,7 +4,7 @@ import struct
 import hashlib
 
 # Read the image
-img = cv2.imread("horses.jpg")  # Image path
+img = cv2.imread("horses.jpg")  # Image Path
 assert img is not None, "Image not found!"
 
 # User inputs

@@ -13,7 +13,7 @@ A Python tool for hiding secret messages inside images using steganography with 
 
 ## Usage
 ### Encryption : 
--- python encrypt.py
+-- **python** encrypt.py
 
 - Enter secret message or text file path
 - Set a password
@@ -22,7 +22,7 @@ A Python tool for hiding secret messages inside images using steganography with 
 
 
 ### Decryption : 
--- python decrypt.py
+-- **python** decrypt.py
 
 - Provide encrypted image (encryptedImage.png)
 - Enter password
@@ -46,11 +46,11 @@ A Python tool for hiding secret messages inside images using steganography with 
 
 # File Structure
 
-├── encrypt.py           # Encryption script
-├── decrypt.py           # Decryption script
-├── horses.jpg           # Sample carrier image
-├── requirements.txt     # Dependencies
-└── README.md            # This documentation
+- encrypt.py           # Encryption script
+- decrypt.py           # Decryption script
+- horses.jpg           # Sample carrier image
+- requirements.txt     # Dependencies
+- README.md            # This documentation
 
 
 ## License
